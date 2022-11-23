@@ -1,1 +1,7 @@
-# Cambie el contenido según las indicaciones del examen.
+
+
+
+
+# Datos del curso
+# Datos personales
+# Datos del equipo 
