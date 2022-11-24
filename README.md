@@ -1,5 +1,7 @@
 # Examen Parcial 1
 
+![Gnu-bash-logo svg](https://user-images.githubusercontent.com/117690624/203673272-61dadf40-6759-462c-9654-166d7356c652.png)
+
 **DATOS DEL CURSO**
 - Asigantura: Bioinformática
 - Docente: Moises Gualapuro
@@ -19,4 +21,3 @@
 | ---------------------- | ---------- | ------------- | ---------------- | --------------- | ---------------------- |
 |    LAPTOP-77TLDJLO     | AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx     2.30 GHz | 12,0 GB (9,94 GB utilizable) | 9D0A64CB-69A9-4DE7-BC83-E556E532A7AD | 00356-02263-20909-AAOEM | Sistema operativo de 64 bits, procesador x64 | Compatibilidad con entrada táctil con 10 puntos táctiles |
 
-	
