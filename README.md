@@ -7,10 +7,11 @@
 - Año Lectivo:2022-2023
 
 **Datos personales**
-- Nombre:JeanPierre Cerda
+- Nombre:Jean-Pierre Cerda
+- Edad: 23 años
 - Ciudad de origen: Tena-Napo
 - Idiomas: Kichwa, Español, Inglés
-- Deportes: Natacuion 
+- Deportes: Natacion 
 
 **Datos del equipo**
 - Nmbre del equipo : LAB-D-E2
