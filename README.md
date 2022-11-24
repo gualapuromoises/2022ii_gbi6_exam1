@@ -3,12 +3,14 @@
 **Datos del curso**
 - GBI6-2022
 - BIOINFORMATICA
+- 6to Semestre
 - Año Lectivo:2022-2023
 
 **Datos personales**
-- Ciudad de origen: Otavalo
+- Nombre:JeanPierre Cerda
+- Ciudad de origen: Tena-Napo
 - Idiomas: Kichwa, Español, Inglés
-- Deportes: NA
+- Deportes: Natacuion 
 
 **Datos del equipo**
 - mbre del equipo : LAB-D-E2
