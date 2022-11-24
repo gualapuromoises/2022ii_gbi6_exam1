@@ -14,8 +14,11 @@
 
 
 **DATOS DEL EQUIPO**
+
 | Nombre del dispositivo | Procesador | RAM instalada | Id. del producto | Tipo de sistema | Lápiz y entrada táctil | 
-| ---------------------- | ---------- | ------------- | ---------------- | --------------- |
+| ---------------------- | ---------- | ------------- | ---------------- | --------------- | --- |
+
+
 - Nombre del dispositivo:	LAPTOP-77TLDJLO
 - Procesador:	AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx     2.30 GHz
 - RAM instalada:	12,0 GB (9,94 GB utilizable)
