@@ -16,3 +16,17 @@
 
 - **Numero de contacto**: 0969354328
 
+<h3 align="center">Datos de mi equipo</h3>
+
+<table>
+ <td>Modelo</td>
+ <td>Generacion</td>
+ <td>Procesador</td>
+ <td>Ram</td>
+ <tr>
+  <td>HP</td>
+ <td>7ma</td>
+ <td>Intelcore</td>
+ <td>8</td>
+
+  
