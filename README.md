@@ -17,12 +17,6 @@
 
 | Nombre del dispositivo | Procesador | RAM instalada | Id. del producto | Tipo de sistema | Lápiz y entrada táctil | 
 | ---------------------- | ---------- | ------------- | ---------------- | --------------- | ---------------------- |
-|    LAPTOP-77TLDJLO     | AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx     2.30 GHz | 
+|    LAPTOP-77TLDJLO     | AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx     2.30 GHz | 12,0 GB (9,94 GB utilizable) | 9D0A64CB-69A9-4DE7-BC83-E556E532A7AD | 00356-02263-20909-AAOEM | Sistema operativo de 64 bits, procesador x64 | Compatibilidad con entrada táctil con 10 puntos táctiles |
 
-- Nombre del dispositivo:	
-- Procesador:	
-- RAM instalada:	12,0 GB (9,94 GB utilizable)
-- Id. del dispositivo:	9D0A64CB-69A9-4DE7-BC83-E556E532A7AD
-- Id. del producto:	00356-02263-20909-AAOEM
-- Tipo de sistema:	Sistema operativo de 64 bits, procesador x64
-- Lápiz y entrada táctil:	Compatibilidad con entrada táctil con 10 puntos táctiles
+	
