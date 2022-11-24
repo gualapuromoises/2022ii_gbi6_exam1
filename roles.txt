@@ -1,0 +1,8 @@
+   2799 Driver
+  11604 Oncogene
+   7344 Tumor_Suppressor
+      1 ﻿role
+      1 ﻿role
+   7344 Tumor_Suppressor
+  11604 Oncogene
+   2799 Driver
