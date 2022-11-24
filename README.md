@@ -13,7 +13,7 @@
 - Deportes: Natacuion 
 
 **Datos del equipo**
-- mbre del equipo : LAB-D-E2
-- ocesador : inter(R) Core(TM) i5-8400 CPU 2.80 GHz 
-- M: 16.0 GB
-- po de sistema: S.O 64 bits 
+- Nmbre del equipo : LAB-D-E2
+- Procesador : inter(R) Core(TM) i5-8400 CPU 2.80 GHz 
+- RAM: 16.0 GB
+- Procesadorde sistema: S.O 64 bits 
