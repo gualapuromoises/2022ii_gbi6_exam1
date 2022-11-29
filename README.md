@@ -14,7 +14,19 @@
 - Deportes: Natacion 
 
 **Datos del equipo**
-- Nmbre del equipo : LAB-D-E2
-- Procesador : inter(R) Core(TM) i5-8400 CPU 2.80 GHz 
-- RAM: 16.0 GB
-- Procesadorde sistema: S.O 64 bits 
+
+<table class="default">
+  <tr>
+      <td>Procesador</td>
+      <td>Memoria RAM</td>
+      <td>Almacenamiento</td>
+      <td>Sistema Operativo</td>
+      <td>Nombre del equipo</td>
+  </tr>
+  <tr>
+      <td>S.O 64 bits</td>
+      <td>16.0 GB</td>
+      <td>256 GB SSD</td>
+      <td>Windows 10</td>
+      <td> LAB-D-E2</td>
+  </tr>
