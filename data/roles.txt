@@ -1,1 +1,9 @@
 
+Número de registros de cada rol del gen:
+   2799 Driver
+  11604 Oncogene
+   7344 Tumor_Suppressor
+Especie y conteo más alto:
+  11604 Oncogene
+Especie y conteo más bajo:
+   2799 Driver
