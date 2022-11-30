@@ -1,28 +1,15 @@
+
+Número de registros de cada rol del gen:
 21747
-  11604 Oncogene
-21747
-  11604 Oncogene
-   2799 Driver
-21747
-  11604 Oncogene
-   2799 Driver
-21747
-  11604 Oncogene
-   2799 Driver
-0
-0
-Especie y conteo más alto:
-Especie y conteo más bajo:
-0
-0
 Especie y conteo más alto:
   11604 Oncogene
 Especie y conteo más bajo:
    2799 Driver
+Número de registros de cada rol del gen:
    2799 Driver
   11604 Oncogene
    7344 Tumor_Suppressor
-Conteo y especie mas alto
+Especie y conteo más alto:
   11604 Oncogene
-Conteo y especie mas bajo
+Especie y conteo más bajo:
    2799 Driver
