@@ -14,3 +14,15 @@
 Especie y conteo más alto:
 Especie y conteo más bajo:
 0
+0
+Especie y conteo más alto:
+  11604 Oncogene
+Especie y conteo más bajo:
+   2799 Driver
+   2799 Driver
+  11604 Oncogene
+   7344 Tumor_Suppressor
+Conteo y especie mas alto
+  11604 Oncogene
+Conteo y especie mas bajo
+   2799 Driver

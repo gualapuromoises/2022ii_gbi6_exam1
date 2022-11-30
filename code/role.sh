@@ -1,15 +1,7 @@
-echo " Pregunta 1"
-echo " "
-#Número de registros de cada rol del gen
-echo "Núm. de registros de cada rol del gen:"
-echo ../data/cancermine.csv | cut -d "," -f 1 | tail -n +2 | wc -l >> ../data/roles.txt
-
-#Especie y conteo más alto
-echo "Especie y conteo más alto:"  >> ../data/roles.txt
-
-echo ../data/cancermine.csv | cut -d "," -f 1 | tail -n +2 | grep "Oncogene" | uniq -c | sort >> ../data/roles.txt
-
-#Especie y conteo más bajo 
-echo "Especie y conteo más bajo:"  >> ../data/roles.txt
-
-echo ../data/cancermine.csv | cut -d "," -f 1 | tail -n +2 | grep "Driver" | uniq -c | sort >> ../data/roles.txt
+#Contal el numero de registro de cada rol del gen
+tail -n +2 ../data/cancermine.csv | cut -d "," -f 1| sort |uniq -c >> ../data/roles.txt
+#Contar el numero de registro de cada rol del gen
+echo "Conteo y especie mas alto" >> ../data/roles.txt
+tail -n +2 ../data/cancermine.csv | cut -d "," -f 1 | grep "Oncogene" | sort | uniq -c >> ../data/roles.txt
+echo "Conteo y especie mas bajo" >> ../data/roles.txt
+tail -n +2 ../data/cancermine.csv | cut -d "," -f 1 | grep "Driver" | sort | uniq -c >> ../data/roles.txt
